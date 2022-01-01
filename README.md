@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @axwellm
-- 👀 I’m interested in strengthening my software development skills in order to make me a better product manager
+- 👀 I’m interested in strengthening my software development skills so I can be a better product manager
 - 🌱 I’m currently learning about machine learning and web development
 - 💞️ I’m looking to collaborate on... nothing at the moment
 - 📫 Reach me via Twitter or LinkedIn
